@@ -12,8 +12,6 @@ role: PhD student
 organizations:
 - name: University of Auckland
   url: https://unidirectory.auckland.ac.nz/profile/lhem832
-- name: Plant & Food Research
-  url: https://plantandfood.co.nz
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include microbial genomics and evolution.
