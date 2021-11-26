@@ -18,6 +18,7 @@ bio: My research interests include microbial genomics and evolution.
 
 # Interests to show in About widget
 interests:
+- Bacterial effectors
 - Microbial genomics
 - Microbial evolution
 - Bioinformatics
