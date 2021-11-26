@@ -71,6 +71,6 @@ email: ""
 highlight_name: true
 ---
 
-Lauren Hemara is a provisional PhD candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). They're based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Campus. Their PhD research focuses on using the kiwifruit bacterial canker pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.
+Lauren Hemara is a provisional PhD candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). They are based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Campus. Their PhD research focuses on using the kiwifruit bacterial canker pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
