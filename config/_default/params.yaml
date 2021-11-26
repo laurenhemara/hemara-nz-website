@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: strawberry
+theme: forest
 day_night: false
 font: ''
 font_size: M
@@ -23,12 +23,13 @@ twitter: ''
 email: lauren.hemara@gmail.com
 address:
   city: Tāmaki Makaurau
+  region: Auckland
   country: New Zealand
   country_code: NZ
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Tweet me!
     link: 'https://twitter.com/LaurenHemara'
 
 # Site header
