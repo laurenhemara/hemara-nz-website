@@ -55,7 +55,7 @@ social:
   link: https://github.com/laurenhemara
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/laurenhemara
+  link: https://www.linkedin.com/in/laurenhemara/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`, 
