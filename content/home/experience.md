@@ -25,7 +25,6 @@ experience:
   - title: 'PhD in Biological Sciences'
     company: 'University of Auckland'
     company_url: ''
-    company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2021-03-01'
     date_end: ''
@@ -34,7 +33,6 @@ experience:
   - title: 'MSc in Biological Sciences'
     company: 'University of Auckland'
     company_url: ''
-    company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2019-03-01'
     date_end: '2020-05-01'
@@ -43,7 +41,6 @@ experience:
   - title: 'PGDipSci in Biological Sciences'
     company: 'University of Auckland'
     company_url: ''
-    company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2018-12-01'
     date_end: '2018-03-01'  
