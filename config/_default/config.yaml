@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Lauren Hemara # Website name
-baseurl: 'https://lauren-hemara.netlify.app/' # Website URL
+baseurl: 'https://hemara.nz/' # Website URL
 copyright: '© {year} Lauren Hemara' # Footer text, e.g. '© {year} Me'
 
 ############################
