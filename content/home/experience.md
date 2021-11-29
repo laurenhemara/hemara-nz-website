@@ -1,5 +1,6 @@
 ---
 widget: experience
+active: true
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
@@ -9,7 +10,6 @@ headless: true  # This file represents a page section.
 date_format: Jan 2006
 
 title: Education
-subtitle:
 
 # Experiences.
 #   Add/remove as many `experience` blocks below as you like.
@@ -42,4 +42,5 @@ experience:
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2018-12-01'
     date_end: '2018-03-01'  
+
 ---
