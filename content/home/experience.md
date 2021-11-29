@@ -1,21 +1,26 @@
 ---
+# An instance of the Experience widget.
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
-active: true
-headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+# This file represents a page section.
+headless: true
 
-# Date format
+# Order that this section appears on the page.
+weight: 40
+
+title: Education
+subtitle:
+
+# Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-title: Education
-
 # Experiences.
-#   Add/remove as many `experience` blocks below as you like.
+#   Add/remove as many `experience` items below as you like.
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with `>-`.
+#   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: 'PhD in Biological Sciences'
     company: 'University of Auckland'
@@ -43,4 +48,6 @@ experience:
     date_start: '2018-12-01'
     date_end: '2018-03-01'  
 
+design:
+  columns: '2'
 ---
