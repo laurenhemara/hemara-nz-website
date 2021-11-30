@@ -29,7 +29,9 @@ experience:
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2021-03-01'
     date_end: ''
-    description: 'Using *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.'
+    description: >-
+    * Using *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.
+    * Awarded a University of Auckland Doctoral Scholarship.
         
   - title: 'MSc in Biological Sciences'
     company: 'University of Auckland'
@@ -38,7 +40,9 @@ experience:
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2019-03-01'
     date_end: '2020-05-01'
-    description: 'Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*'
+    description: >-
+    * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*
+    *Awarded a Zespri Innovation Fellowship.
 
   - title: 'PGDipSci in Biological Sciences'
     company: 'University of Auckland'
@@ -47,6 +51,9 @@ experience:
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2018-03-01'
     date_end: '2018-12-01'  
+    description: >-
+    * Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
+    * Awarded the Janet Bain Mackay Memorial Prize.
 
   - title: 'BSc in Biological Sciences'
     company: 'University of Auckland'
@@ -54,7 +61,9 @@ experience:
     company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2013-03-01'
-    date_end: '2015-12-01'  
+    date_end: '2015-12-01' 
+    description: >-
+    * First in Course for BIOSCI 321 - Plant Pathology.
 
 design:
   columns: '2'
