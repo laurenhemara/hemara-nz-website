@@ -44,7 +44,7 @@ experience:
     description: >-
      * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*
 
-     *Awarded a Zespri Innovation Fellowship.
+     * Awarded a Zespri Innovation Fellowship.
 
   - title: 'PGDipSci in Biological Sciences'
     company: 'University of Auckland'
@@ -55,7 +55,7 @@ experience:
     date_end: '2018-12-01'  
     description: >-
       * Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
-      
+
       * Awarded the Janet Bain Mackay Memorial Prize.
 
   - title: 'BSc in Biological Sciences'
