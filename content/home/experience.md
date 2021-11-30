@@ -42,8 +42,8 @@ experience:
     date_start: '2019-03-01'
     date_end: '2020-05-01'
     description: >-
-     * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*
-
+     * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
+     
      * Awarded a Zespri Innovation Fellowship.
 
   - title: 'PGDipSci in Biological Sciences'
