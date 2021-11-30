@@ -43,7 +43,7 @@ experience:
     date_end: '2020-05-01'
     description: >-
      * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
-     
+
      * Awarded a Zespri Innovation Fellowship.
 
   - title: 'PGDipSci in Biological Sciences'
@@ -63,8 +63,8 @@ experience:
     company_url: 'https://www.auckland.ac.nz/en.html'
     company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
-    date_start: '2013-03-01'
-    date_end: '2015-12-01' 
+    date_start: '2015-03-01'
+    date_end: '2018-12-01' 
     description: >-
      * First in Course for BIOSCI 321 - Plant Pathology.
   
