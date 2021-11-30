@@ -64,7 +64,7 @@ experience:
     company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
     date_start: '2015-03-01'
-    date_end: '2018-12-01' 
+    date_end: '2017-12-01' 
     description: >-
      * First in Course for BIOSCI 321 - Plant Pathology.
   
