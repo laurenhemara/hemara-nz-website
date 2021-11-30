@@ -48,7 +48,7 @@ experience:
     date_start: '2018-03-01'
     date_end: '2018-12-01'  
 
-   - title: 'BSc in Biological Sciences'
+  - title: 'BSc in Biological Sciences'
     company: 'University of Auckland'
     company_url: 'https://www.auckland.ac.nz/en.html'
     company_logo: uoa-logo
