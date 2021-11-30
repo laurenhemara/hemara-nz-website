@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: >-
      * Using *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.
+
      * Awarded a University of Auckland Doctoral Scholarship.
         
   - title: 'MSc in Biological Sciences'
@@ -42,6 +43,7 @@ experience:
     date_end: '2020-05-01'
     description: >-
      * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*
+
      *Awarded a Zespri Innovation Fellowship.
 
   - title: 'PGDipSci in Biological Sciences'
@@ -53,6 +55,7 @@ experience:
     date_end: '2018-12-01'  
     description: >-
       * Awarded the Senior Frances Briggs Memorial Prize in Plant Sciences.
+      
       * Awarded the Janet Bain Mackay Memorial Prize.
 
   - title: 'BSc in Biological Sciences'
