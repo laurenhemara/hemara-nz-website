@@ -53,8 +53,8 @@ experience:
     company_url: 'https://www.auckland.ac.nz/en.html'
     company_logo: uoa-logo
     location: 'Tāmaki Makaurau, Auckland'
-    date_start: '2017-12-01'
-    date_end: '2015-03-01'  
+    date_start: '2015-12-01'
+    date_end: '2013-03-01'  
 
 design:
   columns: '2'
