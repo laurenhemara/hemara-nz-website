@@ -17,6 +17,10 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
+  icon: dna
+  icon_pack: fas
+  name: Variant calling
+- description: 
   icon: r-project
   icon_pack: fab
   name: R
