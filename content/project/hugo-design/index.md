@@ -3,6 +3,9 @@ title: Introduction to the Hugo framework
 summary: An introduction to building your own website for postgraduate students.
 date: "2021-12-01"
 
+tags:
+- Workshop
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
