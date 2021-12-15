@@ -33,6 +33,8 @@ experience:
      * Using *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.
 
      * Awarded a University of Auckland Doctoral Scholarship.
+
+     * Teaching Assistant - BIOSCI 220: Quantitative Biology (Semester 2, 2021).
         
   - title: 'MSc in Biological Sciences'
     company: 'University of Auckland'
