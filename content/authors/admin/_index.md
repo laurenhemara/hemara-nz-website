@@ -75,6 +75,6 @@ Kia ora! I'm a PhD candidate at the [University of Auckland's Joint Graduate Sch
 
  My PhD research focuses on using the kiwifruit bacterial canker pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. 
  
- I'm also a Graduate Teaching Assistant for BIOSCI 220: Quantitative Biology, where I help teach students the ropes of data exploration using RStudio!
+ I'm also a Graduate Teaching Assistant for BIOSCI 220: Quantitative Biology, where I help teach students the ropes of data visualisation and statistical analyses using R!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
