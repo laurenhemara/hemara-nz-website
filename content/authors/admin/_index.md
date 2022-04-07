@@ -71,6 +71,10 @@ email: ""
 highlight_name: true
 ---
 
-Kia ora! I'm a PhD candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). I'm based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Centre. My PhD research focuses on using the kiwifruit bacterial canker pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. I'm also a Graduate Teaching Assistant for BIOSCI 220: Quantitative Biology, where I help teach students the ropes of data exploration using RStudio!
+Kia ora! I'm a PhD candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). I'm based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Centre.
+
+ My PhD research focuses on using the kiwifruit bacterial canker pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. 
+ 
+ I'm also a Graduate Teaching Assistant for BIOSCI 220: Quantitative Biology, where I help teach students the ropes of data exploration using RStudio!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
