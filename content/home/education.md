@@ -67,6 +67,8 @@ experience:
     date_end: '2017-12-01' 
     description: >-
      * First in Course for BIOSCI 321 - Plant Pathology.
+
+     * Tuākana Certificate of Merit for excellent scholastic achievement in STATS 201.
   
 
 design:
