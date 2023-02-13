@@ -1,5 +1,5 @@
 ---
-title: 4 candidate effectors contribute to Psa3 recognition in Actinidia arguta
+title: Four candidate effectors contribute to Psa3 recognition in Actinidia arguta
 summary: This poster was presented at the 2021 IS-MPMI eSymposia.
 date: "2021-07-01"
 

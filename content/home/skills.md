@@ -19,19 +19,19 @@ feature:
 - description: 
   icon: dna
   icon_pack: fas
-  name: Variant calling
+  name: Bacterial genomics
 - description: 
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: flask
+  icon_pack: fas
+  name: Quantifying virulence
 - description: 
   icon: chart-line
   icon_pack: fas
-  name: Statistics
+  name: Data visualisation
 - description: 
-  icon: school
-  icon_pack: fas
-  name: Teaching
+  icon: r-project
+  icon_pack: fab
+  name: Teaching R
 - description: 
   icon: pencil-alt
   icon_pack: fas
