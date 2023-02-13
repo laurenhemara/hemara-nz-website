@@ -1,16 +1,16 @@
 ---
-title: Introduction to the Hugo framework
-summary: An introduction to building your own website for postgraduate students.
-date: "2021-12-01"
+title: School of Graduate Studies Research Showcase
+summary: This poster placed in the top ten of UoA's SGS Research Showcase 2022!
+date: "2022-10-01"
 
 tags:
-- Workshop
+- Poster
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://auckland.figshare.com/articles/poster/Lauren_Hemara_Using_Psa_to_understand_how_pathogens_evolve_during_host_infection/21225440"
 
 image:
-  caption: Photo by sincerelymedia on Unsplash
+  caption: 
   focal_point: Smart
 
 #links:
@@ -30,5 +30,3 @@ image:
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-
-Watch this space! 

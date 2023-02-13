@@ -14,14 +14,14 @@ organizations:
   url: https://unidirectory.auckland.ac.nz/profile/lhem832
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include microbial genomics and evolution.
+bio: Lauren Hemara is a PhD candidate at the University of Auckland.
 
 # Interests to show in About widget
 interests:
 - Bacterial effectors
+- Pathogen emergence
 - Microbial genomics
-- Evolution
-- Bioinformatics
+- Molecular evolution
 
 # Education to show in About widget
 education:
