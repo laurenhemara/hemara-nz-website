@@ -1,6 +1,6 @@
 ---
-title: Four candidate effectors contribute to Psa3 recognition in *Actinidia arguta*
-summary: This poster was presented at the 2021 IS-MPMI eSymposia and gets a shout-out in [this meeting review](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-21-0208-MR).
+title: Four candidate avirulence effectors contribute to Psa3 recognition in *Actinidia arguta*
+summary: This poster was presented at the 2021 IS-MPMI eSymposia and gets a shout-out in [this meeting review](https://apsjournals.apsnet.org/doi/full/10.1094/MPMI-08-21-0208-MR)!
 date: "2021-07-01"
 
 tags:

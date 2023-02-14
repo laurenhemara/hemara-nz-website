@@ -1,6 +1,6 @@
 ---
 title: Using Psa to understand how pathogens evolve during host infection
-summary: This poster placed in the top ten of UoA's SGS Research Showcase 2022.
+summary: This poster placed in the top ten of UoA's SGS Research Showcase 2022!
 date: "2022-10-01"
 
 tags:
