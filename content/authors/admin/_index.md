@@ -79,4 +79,4 @@ Kia ora! I'm a doctoral candidate at the [University of Auckland's Joint Graduat
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
 
-{{< gallery album="gallery" resize_options="250x250" >}}
+{{< gallery album="gallery" resize_options="200x200" >}}
