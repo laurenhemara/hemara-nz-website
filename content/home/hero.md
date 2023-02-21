@@ -5,5 +5,5 @@ weight: 10
 design:
   background:
     image: 'kiwifruit.jpg'
-    image_size: cover
+    image_size: 'cover'
 ---
