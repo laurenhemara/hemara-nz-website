@@ -2,8 +2,8 @@
 widget: hero
 headless: true
 weight: 10
-hero_media: kiwifruit.jpg
 design:
   background:
+    image: kiwifruit.jpg
     image_size: cover
 ---
