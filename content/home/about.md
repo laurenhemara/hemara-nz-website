@@ -19,3 +19,5 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+
+{{< gallery album="<gallery>" resize_options="250x250" >}}
