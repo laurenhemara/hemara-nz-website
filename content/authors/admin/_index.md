@@ -75,6 +75,6 @@ Kia ora! I'm a PhD candidate at the [University of Auckland's Joint Graduate Sch
 
  My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. Using complementary approaches of {{< hl >}}orchard-based genome biosurveillance{{< /hl >}} and {{< hl >}}effector knockout strain competition{{< /hl >}}, I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts. 
  
- I'm also a Graduate Teaching Assistant for [BIOSCI 220: Quantitative Biology](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1223), where I help teach students the ropes of data visualisation and statistical analyses using R!
+ I'm also a Graduate Teaching Assistant for [BIOSCI 220: Quantitative Biology](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1233), where I help teach students the ropes of data visualisation and statistical analyses using R!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
