@@ -6,7 +6,7 @@ title: Lauren Hemara
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Doctoral Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://unidirectory.auckland.ac.nz/profile/lhem832
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lauren Hemara is a PhD candidate at the University of Auckland.
+bio: Lauren Hemara is a Doctoral Candidate at the University of Auckland.
 
 # Interests to show in About widget
 interests:
@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Kia ora! I'm a PhD candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). I'm based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Centre.
+Kia ora! I'm a doctoral candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). I'm based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Centre.
 
  My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. Using complementary approaches of {{< hl >}}orchard-based genome biosurveillance{{< /hl >}} and {{< hl >}}effector knockout strain competition{{< /hl >}}, I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts. 
  
