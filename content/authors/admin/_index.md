@@ -78,5 +78,3 @@ Kia ora! I'm a doctoral candidate at the [University of Auckland's Joint Graduat
  I'm also a Graduate Teaching Assistant for [BIOSCI 220: Quantitative Biology](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1233), where I help teach students the ropes of data visualisation and statistical analyses using R!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
-
-{{< gallery album="gallery">}}
