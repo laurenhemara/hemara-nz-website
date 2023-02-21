@@ -6,6 +6,4 @@ hero_media: kiwifruit.jpg
 design:
   background:
     image_size: cover
-advanced:
-  css_class: fullscreen
 ---
