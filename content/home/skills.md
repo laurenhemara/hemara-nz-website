@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: dna
+  icon: 🧬
   icon_pack: emoji
   name: Bacterial genomics
 - description: 
