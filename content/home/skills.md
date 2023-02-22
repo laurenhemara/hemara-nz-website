@@ -17,29 +17,29 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: 🧬
-  icon_pack: emoji
+  icon: dna
+  icon_pack: custom
   name: Bacterial genomics
 - description: 
   icon: flask
-  icon_pack: fas
+  icon_pack: custom
   name: Quantifying virulence
 - description: 
-  icon: chart-line
-  icon_pack: fas
+  icon: bar-graph
+  icon_pack: custom
   name: Data visualisation
 - description: 
-  icon: r-project
-  icon_pack: fab
+  icon: r
+  icon_pack: custom
   name: Teaching R
 - description: 
-  icon: pencil-alt
-  icon_pack: fas
+  icon: website
+  icon_pack: custom
   name: Web design
 - description: 
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+  icon: photography
+  icon_pack: custom
+  name: Macro photography
 
 
 # Uncomment to use emoji icons.
