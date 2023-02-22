@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: dna
-  icon_pack: fas
+  icon: :dna:
+  icon_pack: emoji
   name: Bacterial genomics
 - description: 
   icon: flask
