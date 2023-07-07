@@ -35,7 +35,6 @@ draft: false
 featured: false
 image:
   filename: effector-profiles.png
-  focal_point: Smart
   preview_only: false
 date: 2023-03-01T01:24:46.440Z
 ---
