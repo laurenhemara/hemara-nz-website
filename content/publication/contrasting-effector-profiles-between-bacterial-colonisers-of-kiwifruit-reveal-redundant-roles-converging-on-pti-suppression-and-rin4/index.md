@@ -15,11 +15,11 @@ authors:
   - Matthew D. Templeton
 doi: https://doi.org/10.1111/nph.18848
 publication: New Phytologist
-abstract: Testing effector knockout strains of {{< hl >}}*Pseudomonas syringae* pv.
-  *actinidiae* biovar 3 (Psa3){{</ hl >}} for reduced in planta growth in their native
+abstract: Testing effector knockout strains of *Pseudomonas syringae* pv.*actinidiae* 
+  biovar 3 (Psa3) for reduced in planta growth in their native 
   kiwifruit host revealed a number of nonredundant effectors that contribute to
-  Psa3 virulence. Conversely, complementation in the weak kiwifruit pathogen {{< hl >}}*P.
-  syringae* pv. *actinidifoliorum* (Pfm){{</ hl >}} for increased growth identified
+  Psa3 virulence. Conversely, complementation in the weak kiwifruit pathogen *P.
+  syringae* pv. *actinidifoliorum* (Pfm) for increased growth identified
   redundant Psa3 effectors. Psa3 effectors hopAZ1a and HopS2b and the entire
   exchangeable effector locus (ΔEEL; 10 effectors) were significant contributors
   to bacterial colonisation of the host and were additive in their effects on
