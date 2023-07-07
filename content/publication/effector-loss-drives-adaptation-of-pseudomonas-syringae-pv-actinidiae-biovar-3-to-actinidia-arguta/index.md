@@ -1,11 +1,12 @@
 ---
 title: Effector loss drives adaptation of Pseudomonas syringae pv. actinidiae
   biovar 3 to Actinidia arguta
+subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Lauren M. Hemara
-  - Jay Jayaraman
+  - Lauren M. Hemara*
+  - Jay Jayaraman*
   - Paul W. Sutherland
   - Mirco Montefiori
   - Saadiah Arshed
@@ -19,6 +20,8 @@ authors:
   - Joel L. Vanneste
   - Cyril Brendolise
   - Matthew D. Templeton
+author_notes:
+  - "*L.M.H. and J.J. share first authorship on this work."
 doi: https://doi.org/10.1371/journal.ppat.1010542
 publication: PLoS Pathogens
 abstract: A pandemic isolate of Pseudomonas syringae pv. actinidiae biovar 3
@@ -43,8 +46,10 @@ abstract: A pandemic isolate of Pseudomonas syringae pv. actinidiae biovar 3
 draft: false
 featured: false
 image:
-  filename: ""
+  filename: orchard-sampling.png
   focal_point: ""
   preview_only: false
+  alt_text: Workflow, from left to right. Sample leaves, Isolate Psa, Extract DNA,
+    Sequence.
 date: 2022-05-27T01:23:00.000Z
 ---
