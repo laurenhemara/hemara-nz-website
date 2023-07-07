@@ -15,8 +15,8 @@ authors:
   - Matthew D. Templeton
 doi: https://doi.org/10.1111/nph.18848
 publication: New Phytologist
-abstract: Testing effector knockout strains of *Pseudomonas syringae* pv.*actinidiae* 
-  biovar 3 (Psa3) for reduced in planta growth in their native 
+abstract: Testing effector knockout strains of *Pseudomonas syringae*
+  pv.*actinidiae* biovar 3 (Psa3) for reduced in planta growth in their native
   kiwifruit host revealed a number of nonredundant effectors that contribute to
   Psa3 virulence. Conversely, complementation in the weak kiwifruit pathogen *P.
   syringae* pv. *actinidifoliorum* (Pfm) for increased growth identified
@@ -32,9 +32,18 @@ abstract: Testing effector knockout strains of *Pseudomonas syringae* pv.*actini
   redundancy for a large portion of its effectors, covering a few functions
   critical to disease.
 draft: false
-featured: false
+featured: true
 image:
   filename: effector-profiles.png
-  preview_only: false
+  preview_only: true
+  alt_text: Why is Psa more virulent than Pfm? Timeline. 1) Which Psa genes are
+    required for virulence? Which Psa effector knockout strains aren't able to
+    infect kiwifruit plants as well as wild-type? 2) Does Pfm carry any genes
+    that trigger host immunity? Can any of Pfm's effectors reduce Psa's ability
+    to successfully infect kiwifruit plants? 3) Is host immunity the only reason
+    Pfm is a weak pathogen? Will knocking out Pfm genes that trigger host
+    immunity make it pathogenic? 4) Can we make Pfm more virulent by giving it
+    Psa effectors? Can any of Psa's effectors increase Pfm's ability to
+    successfully infect kiwifruit plants?
 date: 2023-03-01T01:24:46.440Z
 ---
