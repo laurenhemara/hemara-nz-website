@@ -7,7 +7,7 @@ authors:
   - Jay Jayaraman
   - William T. Jones
   - Dawn Harvey
-  - __Lauren M. Hemara__
+  - Lauren M. Hemara
   - Honour C. McCann
   - Minsoo Yoon
   - Suzanne L. Warring

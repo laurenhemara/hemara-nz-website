@@ -4,7 +4,7 @@ title: Effector loss drives adaptation of Pseudomonas syringae pv. actinidiae
 publication_types:
   - "2"
 authors:
-  - __Lauren M. Hemara__
+  - Lauren M. Hemara
   - Jay Jayaraman
   - Paul W. Sutherland
   - Mirco Montefiori
