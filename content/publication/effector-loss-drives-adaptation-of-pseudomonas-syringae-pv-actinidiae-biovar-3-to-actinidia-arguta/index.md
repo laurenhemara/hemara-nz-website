@@ -5,8 +5,8 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Lauren M. Hemara*
-  - Jay Jayaraman*
+  - Lauren M. Hemara
+  - Jay Jayaraman
   - Paul W. Sutherland
   - Mirco Montefiori
   - Saadiah Arshed
@@ -21,7 +21,7 @@ authors:
   - Cyril Brendolise
   - Matthew D. Templeton
 author_notes:
-  - "*L.M.H. and J.J. share first authorship on this work."
+  - L.M.H. and J.J. share first authorship on this work.
 doi: https://doi.org/10.1371/journal.ppat.1010542
 publication: PLoS Pathogens
 abstract: A pandemic isolate of Pseudomonas syringae pv. actinidiae biovar 3
