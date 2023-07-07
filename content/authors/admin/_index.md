@@ -73,7 +73,7 @@ highlight_name: true
 
 Kia ora! I'm a doctoral candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/). I'm based at [Plant & Food Research](https://plantandfood.co.nz/)'s Mount Albert Research Centre.
 
- My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. Using complementary approaches of **orchard-based genome biosurveillance** 🌿 and **effector knockout strain competition** 🧪, I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts. 
+ My PhD research focuses on using the kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection. I'm examining effector requirements, redundancies, and repertoire refinement across different kiwifruit hosts, using complementary approaches of **orchard-based genome biosurveillance** 🌿 and **effector knockout strain competition** 🧪.
  
  I'm also a Graduate Teaching Assistant for [BIOSCI 220: Quantitative Biology](https://courseoutline.auckland.ac.nz/dco/course/BIOSCI/220/1233), where I help teach students the ropes of data visualisation and statistical analyses using R!
 
