@@ -24,8 +24,8 @@ publication: PLoS Pathogens
 draft: false
 featured: true
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 date: 2023-07-07T00:08:19.087Z
 ---
