@@ -32,10 +32,10 @@ abstract: Testing effector knockout strains of *Pseudomonas syringae*
   redundancy for a large portion of its effectors, covering a few functions
   critical to disease.
 draft: false
-featured: true
+featured: false
 image:
   filename: effector-profiles.png
-  preview_only: true
+  preview_only: false
   alt_text: Why is Psa more virulent than Pfm? Timeline. 1) Which Psa genes are
     required for virulence? Which Psa effector knockout strains aren't able to
     infect kiwifruit plants as well as wild-type? 2) Does Pfm carry any genes
@@ -45,5 +45,6 @@ image:
     immunity make it pathogenic? 4) Can we make Pfm more virulent by giving it
     Psa effectors? Can any of Psa's effectors increase Pfm's ability to
     successfully infect kiwifruit plants?
+  focal_point: center
 date: 2023-03-01T01:24:46.440Z
 ---
