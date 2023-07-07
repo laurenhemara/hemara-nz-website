@@ -6,7 +6,7 @@ publication_types:
 authors:
   - Jay Jayaraman
   - Minsoo Yoon
-  - Lauren M. Hemara
+  - **Lauren M. Hemara**
   - Deborah Bohne
   - Jibran Tahir
   - Ronan K. Y. Chen
