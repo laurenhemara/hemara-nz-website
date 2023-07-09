@@ -1,6 +1,6 @@
 ---
 title: 'Variation at the common polysaccharide antigen locus drives
-  lipopolysaccharide diversity within the *Pseudomonas syringae* species complex'
+  lipopolysaccharide diversity within the Pseudomonas syringae species complex'
 publication_types:
   - "2"
 authors:
