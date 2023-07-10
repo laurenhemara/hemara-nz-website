@@ -30,7 +30,7 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: >-
-     * Using *Pseudomonas syringae* pv. *actinidiae* to understand how plant pathogens evolve during host infection.
+     * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*
 
      * Awarded a University of Auckland Doctoral Scholarship.
         
