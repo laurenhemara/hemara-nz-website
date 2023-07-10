@@ -30,8 +30,8 @@ experience:
     date_start: '2021-03-01'
     date_end: ''
     description: >-
-     * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*
-
+     * Examining effector requirements, redundancies, and repertoire refinement in the emergent kiwifruit pathogen *Pseudomonas syringae* pv. *actinidiae*.
+ 
      * Awarded a University of Auckland Doctoral Scholarship.
         
   - title: 'MSc in Biological Sciences'
@@ -44,7 +44,7 @@ experience:
     description: >-
      * Identification of candidate *Pseudomonas syringae* pv. *actinidiae* effectors that trigger resistance in *Actinidia arguta*.
 
-     * Awarded a Zespri Innovation Fellowship.
+     * Awarded a Zespri Innovation Scholarship.
 
   - title: 'PGDipSci in Biological Sciences'
     company: 'University of Auckland'
