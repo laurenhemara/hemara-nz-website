@@ -1,6 +1,6 @@
 ---
 title: Effector knockout competition reveals individually redundant effectors are collectively required for successful virulence
-summary: This poster will be presented at the [2023 IS-MPMI Congress](https://www.ismpmi.org/Events/2023Congress/Pages/default.aspx) in Providence, RI.
+summary: This poster was presented at the [2023 IS-MPMI Congress](https://www.ismpmi.org/Events/2023Congress/Pages/default.aspx) in Providence, RI.
 date: "2023-07-01"
 
 tags:
