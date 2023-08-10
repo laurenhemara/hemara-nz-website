@@ -18,10 +18,10 @@ bio: Lauren Hemara is a Doctoral Candidate at the University of Auckland.
 
 # Interests to show in About widget
 interests:
-- Bacterial effectors
 - Pathogen emergence
+- Experimental evolution
+- Bacterial effectors
 - Microbial genomics
-- Molecular evolution
 
 # Education to show in About widget
 education:
