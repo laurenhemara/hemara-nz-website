@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 
-  icon: dna
+  icon: forest
   icon_pack: custom
-  name: Bacterial genomics
+  name: Pathogen biosurveillance
 - description: 
   icon: agar
   icon_pack: custom
@@ -29,9 +29,9 @@ feature:
   icon_pack: custom
   name: Quantifying virulence
 - description: 
-  icon: forest
+  icon: dna
   icon_pack: custom
-  name: Pathogen biosurveillance
+  name: Bacterial genomics
 - description: 
   icon: r
   icon_pack: custom
