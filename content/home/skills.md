@@ -29,9 +29,9 @@ feature:
   icon_pack: custom
   name: Quantifying virulence
 - description: 
-  icon: bar-graph
+  icon: forest
   icon_pack: custom
-  name: Data visualisation
+  name: Pathogen biosurveillance
 - description: 
   icon: r
   icon_pack: custom
