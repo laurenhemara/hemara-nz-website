@@ -72,7 +72,7 @@ email: ""
 highlight_name: true
 ---
 
-I'm a doctoral candidate at the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/), based at [Plant & Food Research](https://plantandfood.co.nz/).
+I'm a doctoral candidate in the [University of Auckland's Joint Graduate School in Plant and Food Science](https://www.auckland.ac.nz/en/science/our-research/jgs-plant-and-food-science.html/), based at [Plant & Food Research](https://plantandfood.co.nz/).
 
  I am passionate about understanding how plant pathogens emerge, evolve, and cause disease. In particular, I am interested in understanding how plant pathogens co-evolve with their hosts, both in the field and in experimental settings. 
  
