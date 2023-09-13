@@ -21,6 +21,10 @@ feature:
   icon_pack: custom
   name: Bacterial genomics
 - description: 
+  icon: agar
+  icon_pack: custom
+  name: Experimental evolution
+- description: 
   icon: flask
   icon_pack: custom
   name: Quantifying virulence
@@ -32,10 +36,6 @@ feature:
   icon: r
   icon_pack: custom
   name: Teaching R
-- description: 
-  icon: website
-  icon_pack: custom
-  name: Web design
 - description: 
   icon: photography
   icon_pack: custom
