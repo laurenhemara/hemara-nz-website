@@ -35,7 +35,7 @@ feature:
 - description: 
   icon: r
   icon_pack: custom
-  name: Teaching R
+  name: Bioinf training
 - description: 
   icon: photography
   icon_pack: custom
