@@ -11,7 +11,7 @@ role: Doctoral Candidate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: University of Auckland
-  url: https://unidirectory.auckland.ac.nz/profile/lhem832
+  url: https://profiles.auckland.ac.nz/lhem832
 
 # Short bio (displayed in user profile at end of posts)
 bio: Lauren Hemara is a Doctoral Candidate at the University of Auckland.
