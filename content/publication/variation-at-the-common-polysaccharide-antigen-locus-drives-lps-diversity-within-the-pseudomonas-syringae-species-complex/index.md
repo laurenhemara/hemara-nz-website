@@ -5,15 +5,15 @@ publication_types:
   - "2"
 authors:
   - Jay Jayaraman
-  - William T. Jones
+  - William Jones
   - Dawn Harvey
-  - Lauren M. Hemara
-  - Honour C. McCann
+  - Lauren Hemara
+  - Honour McCann
   - Minsoo Yoon
-  - Suzanne L. Warring
-  - Peter C. Fineran
-  - Carl H. Mesarich
-  - Matthew D. Templeton
+  - Suzanne Warring
+  - Peter Fineran
+  - Carl Mesarich
+  - Matthew Templeton
 doi: https://doi.org/10.1111/1462-2920.15250
 publication: '*Environmental Microbiology*'
 abstract: 'The common polysaccharide antigen (CPA) of the lipopolysaccharide

@@ -20,6 +20,6 @@ abstract: '*Pseudomonas syringae* pv. *actinidiae* biovar 3 (Psa3) causes a deva
 image:
   focal_point: ''
   preview_only: false
-  alt_text: NbPtr1 predicted structure.
+  alt_text: The predicted structure of NbPTR1.
 date: 2023-09-10T01:24:00.000Z
 ---

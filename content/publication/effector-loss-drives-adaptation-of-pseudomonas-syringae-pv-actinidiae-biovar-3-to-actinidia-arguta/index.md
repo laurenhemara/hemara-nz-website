@@ -5,24 +5,24 @@ subtitle: ""
 publication_types:
   - "2"
 authors:
-  - Lauren M. Hemara
+  - Lauren Hemara
   - Jay Jayaraman
-  - Paul W. Sutherland
+  - Paul Sutherland
   - Mirco Montefiori
   - Saadiah Arshed
   - Abhishek Chatterjee
   - Ronan Chen
-  - Mark T. Andersen
-  - Carl H. Mesarich
+  - Mark Andersen
+  - Carl Mesarich
   - Otto van der Linden
   - Minsoo Yoon
-  - Magan M. Schipper
-  - Joel L. Vanneste
+  - Magan Schipper
+  - Joel Vanneste
   - Cyril Brendolise
-  - Matthew D. Templeton
+  - Matthew Templeton
 author_notes:
-  - L.M.H. and J.J. share first authorship on this work.
-  - L.M.H. and J.J. share first authorship on this work.
+  - L.H. and J.J. share first authorship on this work.
+  - L.H. and J.J. share first authorship on this work.
 doi: https://doi.org/10.1371/journal.ppat.1010542
 publication: '*PLoS Pathogens*'
 abstract: 'A pandemic isolate of *Pseudomonas syringae* pv. *actinidiae* biovar 3
