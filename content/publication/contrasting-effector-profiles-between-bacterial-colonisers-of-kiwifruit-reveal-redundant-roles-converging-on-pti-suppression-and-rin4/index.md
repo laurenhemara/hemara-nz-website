@@ -6,13 +6,13 @@ publication_types:
 authors:
   - Jay Jayaraman
   - Minsoo Yoon
-  - Lauren M. Hemara
+  - Lauren Hemara
   - Deborah Bohne
   - Jibran Tahir
-  - Ronan K. Y. Chen
+  - Ronan Chen
   - Cyril Brendolise
-  - Erik H. A. Rikkerink
-  - Matthew D. Templeton
+  - Erik Rikkerink
+  - Matthew Templeton
 doi: https://doi.org/10.1111/nph.18848
 publication: '*New Phytologist*'
 abstract: Testing effector knockout strains of *Pseudomonas syringae*
