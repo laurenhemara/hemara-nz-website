@@ -43,7 +43,7 @@ education:
 social:
 - icon: fa-bluesky
   icon_pack: fa-brands
-  link: https://twitter.com/LaurenHemara
+  link: https://bsky.app/profile/laurenhemara.bsky.social
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/LaurenHemara
